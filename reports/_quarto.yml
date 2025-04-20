@@ -1,13 +1,13 @@
 
 author:
-    - name: Skippy McBoatface
-      email: skippy@mcboatface.com
+    - name: Jamiel Dannouf
+      email: dannoufja@vcu.edu
 
 date: last-modified
 
 format:
     html:
-        theme: cosmo
+        theme: darkly
         toc: true
         embed-resources: true
         code-copy: true
